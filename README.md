@@ -45,8 +45,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=touhiduzzaman-tuhin&show_icons=true&locale=en" alt="touhiduzzaman-tuhin" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=touhiduzzaman-tuhin&show_icons=true&locale=en&layout=compact" alt="touhiduzzaman-tuhin" /></p>
+<img width="550" alt="Dhrubo's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=touhiduzzaman-tuhin&show_icons=true"/>
 
-[website]: https://dnsdhrubo.netlify.app/
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=touhiduzzaman-tuhin&card_width=550)](https://github.com/touhiduzzaman-tuhin/touhiduzzaman-tuhin)
+
+
+[website]: https://touhiduzzaman-tuhin.netlify.app/
