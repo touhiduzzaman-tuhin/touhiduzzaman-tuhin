@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://touhiduzzaman-tuhin.netlify.app/" target="blank">Touhiduzzaman</a?</h1> 👈
+<h1 align="center">Hi 👋, I'm <a href="https://touhiduzzaman-tuhin.netlify.app/" target="_blank">Touhiduzzaman</a>👈</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
 
 <h1>🤟🤟 JavaScript Lover 😍😍</h1>
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-touhiduzzaman-a8451b1b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/md-touhiduzzaman-a8451b1b4/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/touhiduzzaman.tuhin.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/touhiduzzaman.tuhin.9/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/touhiduzzaman_tuhin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/touhiduzzaman_tuhin/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-touhiduzzaman-a8451b1b4/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/md-touhiduzzaman-a8451b1b4/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/touhiduzzaman.tuhin.9/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/touhiduzzaman.tuhin.9/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/touhiduzzaman_tuhin/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/touhiduzzaman_tuhin/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
