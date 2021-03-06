@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Gmail Badge](https://img.shields.io/badge/-touhiduzzamantuhin95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:touhiduzzamantuhin95@gmail.com)]    [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/md-touhiduzzaman-a8451b1b4/)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/touhiduzzaman_tuhin/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/touhiduzzaman.tuhin.9/)
+![Gmail Badge](https://img.shields.io/badge/-touhiduzzamantuhin95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:touhiduzzamantuhin95@gmail.com)]   [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/md-touhiduzzaman-a8451b1b4/)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/touhiduzzaman_tuhin/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/touhiduzzaman.tuhin.9/)
 
 <br />
 
