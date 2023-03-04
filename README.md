@@ -52,8 +52,9 @@ Here are some ideas to get you started:
 
 -->
 
-## Some projects I worked on: 
 <!--
+## Some projects I worked on: 
+
 1. [Hot Onion Restaurant](https://hot-onion-restaurant-rangpur.web.app/)
 2. [Travel Guru](https://travel-guru-rangpur.web.app/) 
 -->
