@@ -67,5 +67,3 @@ Here are some ideas to get you started:
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=touhiduzzaman-tuhin&card_width=550)](https://github.com/touhiduzzaman-tuhin/touhiduzzaman-tuhin)
 
-
-[website]: https://touhiduzzaman-tuhin.netlify.app/
